@@ -1,0 +1,48 @@
+{  
+    "ques" : [  
+        "Q1. Which of the following schemes has the purpose of a garbage-free city?",  
+        "Q2. Which is the largest Indian Museum?",  
+        "Q3. Which among the following material was used in Mathura School of Art?",  
+        "Q4. Navalinga Temples of 9th century built by Amoghavarsha of Rashtrakuta Dynasty was located in?",  
+        "Q5. In which of the following regions of the Indian subcontinent was Rigveda Samhita composed?"  
+    ],  
+    "ans" : [  
+        2,  
+        4,  
+        4,  
+        3,  
+        1  
+    ],  
+    "choices" : [  
+        [  
+        "Swachh Bharat Mission - rural phase 2",  
+        "Swachh Bharat Mission - urban phase 2",  
+        "Swachh Bharat Mission - urban phase 1",  
+        "Swachh Bharat Mission - rural"  
+        ],  
+        [  
+        "Nizam's Museum",  
+        "Salar Jung Museum",  
+        "AP state Archaeology Museum",  
+        "Indian Museum Kolkata"  
+        ],  
+        [  
+        "Granite",  
+        "White Marble",  
+        "Slate",  
+        "Red Sandstone"  
+        ],  
+        [  
+        "Tamil Nadu",  
+        "Andhra Pradesh",  
+        "Karnataka",  
+        "Maharastra"  
+        ],  
+        [  
+        "Punjab",  
+        "Sindh",  
+        "Assam",  
+        "Bengal"  
+        ]  
+    ]  
+}  
